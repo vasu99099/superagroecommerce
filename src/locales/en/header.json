@@ -1,0 +1,45 @@
+{
+  "brand": {
+    "name": "SuperAgro",
+    "tagline": "Premium Agricultural Solutions"
+  },
+  "contact": {
+    "helpline": "Helpline",
+    "freeShipping": "Free Shipping"
+  },
+  "search": {
+    "desktopPlaceholder": "Search for products, crops, or pests...",
+    "mobilePlaceholder": "Search products..."
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "knowledgeCenter": "Knowledge Center",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "blog": "Blog"
+  },
+  "megaMenu": {
+    "title": "Browse by Category",
+    "subtitle": "Find the perfect solution for your crops",
+    "viewAllProducts": "View All Products →"
+  },
+  "categories": {
+    "categories": "Categories",
+    "crops": "Crops",
+    "pests": "Pests",
+    "topBrands": "Top Brands"
+  },
+  "actions": {
+    "account": "Account",
+    "login": "Login",
+    "signUp": "Sign Up",
+    "specialOffers": "🎉 Special Offers",
+    "specialOffersMobile": "🎉 Special Offers - View Now"
+  },
+  "badges": {
+    "products": "150+ Products",
+    "quality": "Certified Quality",
+    "support": "Expert Support"
+  }
+}
