@@ -7,6 +7,7 @@ import BlogSection from '../components/sections/BlogSection';
 import Testimonials from '../components/sections/Testimonials';
 import Newsletter from '../components/sections/Newsletter';
 import AgroHeader from '../components/layout/Header';
+import LocationMap from '../components/home/LocationMap';
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
         <FeaturedProducts />
         <Testimonials />
         <BlogSection />
+        <LocationMap />
         <Newsletter />
       </main>
       <Footer />

@@ -1,3 +1,4 @@
+'use client';
 import React from 'react';
 import { Leaf } from 'lucide-react';
 import { useTranslation } from 'react-i18next';

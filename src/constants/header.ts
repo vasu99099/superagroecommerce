@@ -7,7 +7,8 @@ export const HEADER_CONSTANTS = {
   },
   CONTACT: {
     HELPLINE: '+91 9510068068',
-    EMAIL: 'abhibhimani007@gmail.com'
+    EMAIL: 'abhibhimani007@gmail.com',
+    ADDRESS: 'Unit-A, Nagarpalika Building, Char Chowk, Keshod, Gujarat 362220'
   },
   SEARCH: {
     DESKTOP_PLACEHOLDER: 'Search for products, crops, or pests...',
